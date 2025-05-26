@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Cine Miguelonchis</h1>
+  <h1>Cine mgarleo1202</h1>
   <div class="cartelera">
     <?php
       $peliculas = json_decode(file_get_contents("peliculas.json"), true);
