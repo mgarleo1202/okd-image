@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Estrenos más recientes en el cine</title>
+  <title>Peliculas</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
