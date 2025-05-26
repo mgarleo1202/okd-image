@@ -1,0 +1,55 @@
+[
+    {
+      "titulo": "Inception",
+      "descripcion": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de sueño compartido.",
+      "imagen": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/14552c93-d318-4563-a00b-343df7e35d0b/4beb5159-7570-4f7e-bd37-6f7ea0ccff52?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "titulo": "Batman Begins",
+      "descripcion": "Un joven Bruce Wayne regresa a Gotham City después de años de entrenamiento en el extranjero.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15FAaAbWaLWNLakG_Yn1ZPCrF3agnWco_xg&s",
+      "trailer": "https://www.youtube.com/watch?v=neY2xVmOfUM"
+    },
+    {
+        "titulo": "Interstellar",
+        "descripcion": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio.",
+        "imagen": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+      },
+    { 
+        "titulo": "Kill Bill: Vol. 1",
+        "descripcion": "Una mujer busca venganza contra su antiguo equipo de asesinos.",
+        "imagen": "https://www.dodmagazine.es/wp-content/uploads/2023/04/kill-bill-vol-1.jpg.webp",
+        "trailer": "https://www.youtube.com/watch?v=7kSuas6mRpk"
+        },
+
+        {
+        "titulo": "Dunkirk",
+        "descripcion": "La evacuación de las fuerzas aliadas de Dunkerque durante la Segunda Guerra Mundial.",
+        "imagen": "https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2017/07/dunkirk-christipher-nolan.jpg?fit=1060%2C596&ssl=1",
+        "trailer": "https://www.youtube.com/watch?v=F-eMt3SrfFU"
+        },
+    {
+        "titulo": "Tenet",
+        "descripcion": "Un agente de la CIA es reclutado para una misión que involucra la manipulación del tiempo.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhMMqyecYqOufS-j2AbFevOg9f8LH9m8qfA&s",
+        "trailer": "https://www.youtube.com/watch?v=QxhDXmb2O3k&pp=ygUNVGVuZXQgdHJhaWxlctIHCQmNCQGHKiGM7w%3D%3D"
+    },
+    {
+        "titulo": "American Psycho",
+        "descripcion": "Un joven ejecutivo de Wall Street lleva una doble vida como asesino en serie.",
+        "imagen": "https://i0.wp.com/tomatazos.buscafs.com/2025/04/american-psycho-lions-gate-films.jpg?fit=1366,684&quality=75&strip=all",
+        "trailer": "https://www.youtube.com/watch?v=5YnGhW4UEhc"
+
+    },
+    {
+        "titulo": "El indomable Will Hunting",
+        "descripcion": "Un joven con un talento excepcional para las matemáticas lucha con su pasado.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbNt4GJnZ52PzS-cWnMOKJaFmnwvr5yKTeQ&s",
+        "trailer": "https://www.youtube.com/watch?v=ReIJ1lbL-Q8"
+
+    }
+
+  ]
+  
